@@ -9,6 +9,22 @@
 <body>
     
     <h1>HELLO WORLD</h1>
+    <nav>
+        <ul>
+            <li>
+                <a href="/">
+                    HOME
+            </li>
+            <li>
+                <a href="/about">
+                    ABOUT
+            </li>
+            <li>
+                <a href="/login">
+                    LOGIN   
+            </li>
+        </ul>
+    </nav>
 
 </body>
 </html>
