@@ -9,7 +9,7 @@
 </head>
 <body>
     
-    <h1 class="text-center">HELLO WORLD</h1>
+    <h1 class="text-center">HELLO WORLD {{ $title }}</h1>
     <nav>
         <ul class="d-flex justify-content-around">
             <li>
